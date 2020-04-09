@@ -1,7 +1,5 @@
 package utp.nitpac;
 
-/**
- * @author Adrian Pachowicz
- */
 public class DEV1 {
+    public static String author = "Adrian Pachowicz";
 }
